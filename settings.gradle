@@ -1,0 +1,3 @@
+include ':fdc-aspect'
+include ':app'
+rootProject.name = "DoubleClick"
